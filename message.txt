@@ -5,3 +5,14 @@ dao nay cau khoe khong
 lau roi khong gap cau
 
 chong cau beo len nhieu day
+
+
+// phuc rep
+
+chao cau nhe to phuc ne
+
+dao nay to van khoe
+
+cung 3 nam roi
+
+do an tren thanh pho cung kha ngon
