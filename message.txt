@@ -1,3 +1,5 @@
 chao cau
 
 dao nay cau khoe khong
+
+lau roi khong gap cau
